@@ -2,7 +2,6 @@
 - 👀 I’m interested in latest technologies like Artificial Intelligence, DevOps, Cloud Computing, Web Devlopment, Automation etc.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects based upon programming, statistics, machine learning
-- 📫 How to reach me mahilreshi5@gmail.com
 
 <!---
 mahilreshi/mahilreshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
