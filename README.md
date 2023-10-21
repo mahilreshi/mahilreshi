@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 <code><img height = "50" src = "https://user-images.githubusercontent.com/97906348/193205299-09a0ede4-bde9-4cb0-9106-544a3afc070d.png"></code>
 <a href="https://app.daily.dev/mahilreshi"><img src="https://api.daily.dev/devcards/4d012002d1964adbb518dfd025c49e27.png?r=0r9" width="200" alt="Mahil Reshi's Dev Card"/></a>
 
-[![@mahilreshi's Holopin board](https://holopin.io/api/user/board?user=mahilreshi)](https://holopin.io/@mahilreshi)
+[![An image of @mahilreshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahilreshi)](https://holopin.io/@mahilreshi)
