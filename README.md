@@ -27,6 +27,8 @@ Hi, I’m Mahil Reshi, and I'm passionate about the latest technologies, includi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
   <img width="12" />
+  <img src="https://assets.hackclub.com/flag-standalone-bw.svg" height="40" alt="hackclub logo" />
+  <img width="12" />
 </div>
 
 ## Daily Dev Card
